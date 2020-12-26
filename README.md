@@ -5,7 +5,7 @@ I am Harrison Wong. A Software Engineer in a Startup. I also fiddle with front e
 - 🔭 I’m currently working on: E-commerce side project focusing on bakery community
 - 🌱 I’m currently learning: Relearning android, backend, and probably some aws stuff such as ec2 and rds
 - 💬 Ask me about: Funny memes, my pain with flutter, and mobile engineering
-- 📫 How to reach me: [Twitter](https://twitter.com/Harrizontal) or my [website](www.harrizontal.com), 
+- 📫 How to reach me: [Twitter](https://twitter.com/Harrizontal) or my [website](https://www.harrizontal.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Huge obession with eggplant dishes
 
