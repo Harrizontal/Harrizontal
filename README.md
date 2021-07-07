@@ -2,12 +2,8 @@
 
 I am Harrison Wong. A Software Engineer in a Startup. I also fiddle with front end technologies such as react, gatsby and nextjs. I am passionate in sharing knowledge, documentation, mobile engineering and a little bit of multi agent systems.
 
-- 🔭 I’m currently working on: E-commerce side project focusing on bakery community
 - 🌱 I’m currently learning: Relearning android, backend, and probably some aws stuff such as ec2 and rds
-- 💬 Ask me about: Funny memes, my pain with flutter, and mobile engineering
 - 📫 How to reach me: [Twitter](https://twitter.com/Harrizontal) or my [website](https://www.harrizontal.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Weird obession with eggplant dishes
 
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrizontal&layout=compact)](https://github.com/harrizontal/github-readme-stats)
