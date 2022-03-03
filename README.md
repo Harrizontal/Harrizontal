@@ -2,7 +2,7 @@
 
 I am Harrison Wong. A Software Engineer in a Startup. I also fiddle with front end technologies such as react, gatsby and nextjs. I am passionate in sharing knowledge, documentation, mobile engineering and a little bit of multi agent systems.
 
-- 🌱 I’m currently learning: Relearning android, backend, and probably some aws stuff such as ec2 and rds
+- 🌱 what I do: android, mostly. I fiddle with react and nextjs as well. I like design too!
 - 📫 How to reach me: [Twitter](https://twitter.com/Harrizontal) or my [website](https://www.harrizontal.com).
 
 
